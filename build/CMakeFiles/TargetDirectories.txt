@@ -1,3 +1,0 @@
-/home/altas/altas/algorithm/sword2offer/build/CMakeFiles/rebuild_cache.dir
-/home/altas/altas/algorithm/sword2offer/build/CMakeFiles/edit_cache.dir
-/home/altas/altas/algorithm/sword2offer/build/CMakeFiles/main.dir
