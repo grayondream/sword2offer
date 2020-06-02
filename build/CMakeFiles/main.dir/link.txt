@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/my_string.cpp.o CMakeFiles/main.dir/question.cpp.o CMakeFiles/main.dir/mylist.cpp.o CMakeFiles/main.dir/singleton.cpp.o  -o main 
